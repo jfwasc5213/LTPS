@@ -12,7 +12,7 @@ namespace PixelWorldsServer2
         private static DiscordSocketClient _client = new DiscordSocketClient();
         private static CommandService _commands = new CommandService();
         private static IServiceProvider _services;
-        private const string token = "MTIxMzE4OTQ0MzAyNDg1MTAxNA.GJ11WG.v7BMc0g8yeQ4sdUIwKA5xdSMx52ATEH-OP8gPE";
+        private const string token = "";
 
 
 
